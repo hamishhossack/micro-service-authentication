@@ -1,6 +1,6 @@
-# ![](https://avatars1.githubusercontent.com/u/14334846?v=3&s=200) Padawan Auth API 
+# Micro-service Authentication
 
-Padawan authentication secures all public APIs from the outside world. Using different authentication techniques we allow types of connections through based on their origin and destination.
+A solution for oAuth2 authentication inside a micro service architecture.
 
 The underlying architecture of Authentication allow us to secure both mobile, web and social apps through mutiple different streams. Some of these key technologies include:
 
