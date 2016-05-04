@@ -1,0 +1,210 @@
+{
+  "jeveux1truc.be": {
+    "socials": {
+      "facebook": {
+        "clientID": "327804624028536",
+        "clientSecret": "59c79d741c42512d5f5922da9c12ec6b"
+      }
+    }
+  },
+  "anuncialo.com": {
+    "socials": {
+      "facebook": {
+        "clientID": "1410242042594230",
+        "clientSecret": "3f5883cfca5f2f90602b3d7881021dd9"
+      }
+    }
+  },
+  "jeveux1truc.fr": {
+    "socials": {
+      "facebook": {
+        "clientID": "525585034180424",
+        "clientSecret": "9bf9243f056bfbf01813b6380fd89417"
+      }
+    }
+  },
+  "anuncialo.com.bo": {
+    "socials": {
+      "facebook": {
+        "clientID": "563908240445475",
+        "clientSecret": "099725e18177fccaea0f07b9d0fe893e"
+      }
+    }
+  },
+  "publicaqui.com": {
+    "socials": {
+      "facebook": {
+        "clientID": "244327835732869",
+        "clientSecret": "5fe3ccdb7d51a4fcebacbcd137c0405f"
+      }
+    }
+  },
+  "thegooddeal.ca": {
+    "socials": {
+      "facebook": {
+        "clientID": "241114539386734",
+        "clientSecret": "dcf565f8d3460675f4dfd16a395b7887"
+      }
+    }
+  },
+  "thegooddeal.ch": {
+    "socials": {
+      "facebook": {
+        "clientID": "1421583074740540",
+        "clientSecret": "04166ae52e703ffc8cb5e282a6f802e7"
+      }
+    }
+  },
+  "anuncialo.cl": {
+    "socials": {
+      "facebook": {
+        "clientID": "275556369445070",
+        "clientSecret": "30af3aab57401e82a1a3be11a35aa34b"
+      }
+    }
+  },
+  "publicaqui.com.co": {
+    "socials": {
+      "facebook": {
+        "clientID": "1398143467119340",
+        "clientSecret": "cff0ae445342dd2eac5b51b58d76ab22"
+      }
+    }
+  },
+  "anuncialo.co.cr": {
+    "socials": {
+      "facebook": {
+        "clientID": "1763454780607519",
+        "clientSecret": "ff547572d02fd199b074024c7a56b49f"
+      }
+    }
+  },
+  "anuncialo.com.ec": {
+    "socials": {
+      "facebook": {
+        "clientID": "826665874133103",
+        "clientSecret": "8fc0b82c6147d43a6794c929832d9d05"
+      }
+    }
+  },
+  "anuncialo.es": {
+    "socials": {
+      "facebook": {
+        "clientID": "711845868845486",
+        "clientSecret": "54f88a918bb16134797f30bacf2928b8"
+      }
+    }
+  },
+  "anuncialo.com.gt": {
+    "socials": {
+      "facebook": {
+        "clientID": "932625066854347",
+        "clientSecret": "3fca0324b7c4b5a157c73aaeea871238"
+      }
+    }
+  },
+  "thegooddeal.com.hk": {
+    "socials": {
+      "facebook": {
+        "clientID": "636394329743007",
+        "clientSecret": "14b99fee59286f256a6a75d7507ac408"
+      }
+    }
+  },
+  "ikwiliets.be": {
+    "socials": {
+      "facebook": {
+        "clientID": "356158484536078",
+        "clientSecret": "8609e1191810bec59bd98dcbb21b7d21"
+      }
+    }
+  },
+  "thegooddeal.in": {
+    "socials": {
+      "facebook": {
+        "clientID": "561280237323286",
+        "clientSecret": "03a67fcaef090d3af34baf8a244def7c"
+      }
+    }
+  },
+  "trovaloqua.it": {
+    "socials": {
+      "facebook": {
+        "clientID": "220897108034690",
+        "clientSecret": "2aa333c82dd7ef4670d503f7f9a96ef9"
+      }
+    }
+  },
+  "anuncialo.com.mx": {
+    "socials": {
+      "facebook": {
+        "clientID": "673865212672811",
+        "clientSecret": "e4016731ddd72664d708c3c30296a4cc"
+      }
+    }
+  },
+  "anuncialo.com.ni": {
+    "socials": {
+      "facebook": {
+        "clientID": "552738341598132",
+        "clientSecret": "781e960eb898abf1e8807738d39b3441"
+      }
+    }
+  },
+  "anuncialo.com.pe": {
+    "socials": {
+      "facebook": {
+        "clientID": "1416393675283380",
+        "clientSecret": "35c72e7df83bb396375dfda60eaa7058"
+      }
+    }
+  },
+  "thegooddeal.com.my": {
+    "socials": {
+      "facebook": {
+        "clientID": "464966223646885",
+        "clientSecret": "135ada036a25682af8e9e248321a1512"
+      }
+    }
+  },
+  "afixaqui.pt": {
+    "socials": {
+      "facebook": {
+        "clientID": "426248040835077",
+        "clientSecret": "7bc82abdd0dd099c64d713c5f718847a"
+      }
+    }
+  },
+  "thegooddeal.com.sg": {
+    "socials": {
+      "facebook": {
+        "clientID": "1483960005153270",
+        "clientSecret": "fd089ab31cc968fe94e35e17be9f677f"
+      }
+    }
+  },
+  "thegooddeal.co.uk": {
+    "socials": {
+      "facebook": {
+        "clientID": "602828389775303",
+        "clientSecret": "eb080bcb5539414e35ccddcc6493b94b"
+      }
+    }
+  },
+  "thegooddeal.com": {
+    "socials": {
+      "facebook": {
+        "clientID": "376757625793694",
+        "clientSecret": "80401d413d1bcd0d8a81b237116c1981"
+      }
+    }
+  },
+  "publicaqui.com.ve": {
+    "socials": {
+      "facebook": {
+        "clientID": "270349249834061",
+        "clientSecret": "0278d7d306a200fd0fdca4a822b44725"
+      }
+    }
+  }
+}

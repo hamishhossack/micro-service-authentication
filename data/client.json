@@ -1,0 +1,164 @@
+[
+  {
+    "site": "thegooddeal.com.hk",
+    "clientId": "T1gVWmij260=",
+    "clientSecret": "iftNthNcU4qcpP4S+4pdz3S7rw3zo36FoBp56+WmGpo=",
+    "application": "web"
+  },
+  {
+    "site": "ikwiliets.be",
+    "clientId": "F5Ahpb3zZVM=",
+    "clientSecret": "WY9RGEfWWMBES6UhpmS+bDPfPcUNWiDXBkvwCNIBnzI=",
+    "application": "web"
+  },
+  {
+    "site": "publicaqui.com.co",
+    "clientId": "0h8jiYjDb+U=",
+    "clientSecret": "ET7TyBbiu66np3VNllcadoCd7A1zuO8QvuTCtk9lZUI=",
+    "application": "web"
+  },
+  {
+    "site": "afixaqui.pt",
+    "clientId": "h4MCBlqSsZg=",
+    "clientSecret": "bSKpivUpqCw/87/EHZNzUxgL7l93JiJTHsdryx0+/7c=",
+    "application": "web"
+  },
+  {
+    "site": "trovaloqua.it",
+    "clientId": "K38X/E9QsaM=",
+    "clientSecret": "gAtLdzfaj/Q4maADEAELhgTICoIa/PvzoOL+Q/ee2no=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.es",
+    "clientId": "O+r4HzTvCvk=",
+    "clientSecret": "32rBY0KbkxTvusv8ltkMeFrBYXZesr/sWKJ6Jk6e+3E=",
+    "application": "web"
+  },
+  {
+    "site": "jeveux1truc.fr",
+    "clientId": "4aXaHeTBYmU=",
+    "clientSecret": "uIf3lQOw15m+RZbSKIjPhD5YYVP6KmJ9cjEZpYD/OIc=",
+    "application": "web"
+  },
+  {
+    "site": "publicaqui.com.ve",
+    "clientId": "PTRdVgbZIb4=",
+    "clientSecret": "QFIam9kESRGy0cq+I8pNDelrfrUmpFOMMfvp7KELMOQ=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.ch",
+    "clientId": "aZmWxZtVhRg=",
+    "clientSecret": "HneM7KjGrQs/zWC3uPEg+Kh366n9Ca3HfM7F0t8/z/w=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.in",
+    "clientId": "BGGNVql3d+0=",
+    "clientSecret": "ub/dij94uOLEVuopUaQL8Kd7ha1DJWcFAHstBzHIx70=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.ca",
+    "clientId": "2S3ViyiK6OQ=",
+    "clientSecret": "dSKFCGBVRZC6hzUvO4qNR90drRb503KqHcJZf9dZ9F8=",
+    "application": "web"
+  },
+  {
+    "site": "publicaqui.com",
+    "clientId": "L3/94MKgSVs=",
+    "clientSecret": "TuxIBpGYPHI+uliYaLn0QHB0wPEyZAMuhmW7Wd/zT0s=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.pe",
+    "clientId": "jnYAh3m6pss=",
+    "clientSecret": "J1q8E43Tfm/rJRvjONYoNaaYw7fW8wWj9paMAEYUgzY=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com",
+    "clientId": "rCNO/huNeY0=",
+    "clientSecret": "cJgcrJzzRFnRUjbUnb9po9slUdoL0d906oypQzOdjqI=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.co.uk",
+    "clientId": "Td3zItSF1PU=",
+    "clientSecret": "A+SRs6tq6Wrfqz8l3hQ21O++MIDZJ+90AcVtaUDNY0E=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.com.sg",
+    "clientId": "+vXSGo4VgjI=",
+    "clientSecret": "ULJasrOcQPFuU4hx3+ZBgeN5V9qw0JETPyZYOdhZrWU=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.com",
+    "clientId": "PwAbsiikBJk=",
+    "clientSecret": "xBi/PdLrVRZA5dwVov+S/IeIyonDr56hkce3nPjstVw=",
+    "application": "web"
+  },
+  {
+    "site": "thegooddeal.com.my",
+    "clientId": "XRPDc6Yt4QE=",
+    "clientSecret": "4cYANGQZfknR5GhqTC1Aw0JUXq8hrWLJ+9lqqH68yU0=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.mx",
+    "clientId": "NXLOeQPL8R8=",
+    "clientSecret": "ibAxmf95O4owQV85W+BFi/6eKkIB31XwJwc3oKEF9kU=",
+    "application": "web"
+  },
+  {
+    "site": "jeveux1truc.be",
+    "clientId": "9w+8G0ghTdI=",
+    "clientSecret": "EllI3Qvf5+HZCiEHfW385RewoU+6EKQax/arcmsLxu0=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.co.cr",
+    "clientId": "tZXXKKB43Rw=",
+    "clientSecret": "wKfGNGNLsZGYXB94Y0Evb3ZcPJw142rsC9wA/Gdg4xc=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.cl",
+    "clientId": "6fdH9bV7FK4=",
+    "clientSecret": "UNtUF5RaM56O5Qm45roM7+xJPSaSmJyEcx5Z7HUbIxo=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.py",
+    "clientId": "oOJThzrsQe8=",
+    "clientSecret": "D6eYwDQja/yBrWooQ3Fb/6+glN4VGzhw1uI3qqSm2ao=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.ni",
+    "clientId": "BcfvitthU4k= ",
+    "clientSecret":  "xjFvnqnXCEgd1rQBucCAu8mpG6mPzsgfuIbP7mnacgc=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.gt",
+    "clientId": "+LOBq8Koii4= ",
+    "clientSecret": "lXk53ZETLQ2zjBMInYjZt5y1pG7AvLPAC8P7Y+ezVuA=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.ec",
+    "clientId": "CEl7AD/Vlbc= ",
+    "clientSecret": "VJz+ZOXLfowfG4Tc5FvAWnKMycpW7x1Im/fRDMAIs1o=",
+    "application": "web"
+  },
+  {
+    "site": "anuncialo.com.bo",
+    "clientId": "KhT+0VvBnc=",
+    "clientSecret": "aCChpWynApd+UqL606mL/B0gWF1uojdgQ+AXSsv0cIU=",
+    "application": "web"
+  }
+]
